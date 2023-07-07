@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "SignalRConnection": "TODO:Add your own",
+    "SignalRHubAddress": "https://localhost:7127/coffeeshophub"
+  }
+  //},
+  //"Host": {
+  //  "LocalHttpPort": 7002,
+  //  "CORS": "*"
+  //}
+}
